@@ -2,8 +2,6 @@
 from setuptools import setup
 
 setup(
-    name="tractor",
     version="1.0",
-    description="Tractor python library",
-    author="Pixar",
+    python_requires=">2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*",
 )
