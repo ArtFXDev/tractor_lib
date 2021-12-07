@@ -2,7 +2,7 @@
 from setuptools import setup
 
 setup(
-    name="Tractor",
+    name="tractor",
     version="1.0",
     description="Tractor python library",
     author="Pixar",
